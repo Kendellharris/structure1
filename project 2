@@ -1,0 +1,39 @@
+<html>
+	<head>
+		<!--this is the head folder-->
+	
+		<text>
+		<!--team projects-->
+		</text>
+
+		<link>
+		 <!--structrue1.css-->
+		</link>
+	</head>
+
+	<body>
+		<!--this is the body-->
+		<header>
+		<nav>
+		</header>
+
+		<main>
+	               <!--this is the main-->
+			
+			<aside>
+			</aside>
+
+
+			<section>
+				<!--this is the section-->
+				<article>
+				</article>
+
+				<article>
+				</article>
+		</main>
+			<footer>
+			</footer>
+	</body>
+</html>	
+
